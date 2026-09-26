@@ -1,5 +1,0 @@
-{
-  "appId": "com.fadolzd.mushaf",
-  "appName": "المصحف",
-  "webDir": "www"
-}
